@@ -1,1 +1,27 @@
-{"companies":{"Fractal analytics":"DSA,ML,Data science,Data engineering","Google":"DSA,CP","Walmart":"","Salesforce":"","Mathworks":"","Goldman sachs":"","Flipkart":"","De shaw":"","Arsesium":"","Amazon":"","Samsung":""},"currently-accepting-for":["Walmart - 2021 - 3Year - Internship","Salesforce - 2021 - 3Year - Internship","Mathworks - 2021 - 3Year - Internship","Goldman sachs - 2021 - 3Year - Internship","Flipkart - 2021 - 3Year - Internship","De shaw - 2021 - 3Year - Internship","Arsesium - 2021 - 3Year - Internship","Amazon - 2021 - 3Year - Internship","Samsung - 2021 - 3Year - Internship","Google - 2021 - 3Year - Internship"]}
+{
+  "companies": {
+    "Fractal analytics": "DSA,ML,Data science,Data engineering",
+    "Google": "DSA,CP",
+    "Walmart": "",
+    "Salesforce": "",
+    "Mathworks": "",
+    "Goldman sachs": "",
+    "Flipkart": "",
+    "De shaw": "",
+    "Arsesium": "",
+    "Amazon": "",
+    "Samsung": ""
+  },
+  "currently-accepting-for": [
+    "Walmart - 2020 - 3Year - Internship",
+    "Salesforce - 2020 - 3Year - Internship",
+    "Mathworks - 2020 - 3Year - Internship",
+    "Goldman sachs - 2020 - 3Year - Internship",
+    "Flipkart - 2020 - 3Year - Internship",
+    "De shaw - 2020 - 3Year - Internship",
+    "Arsesium - 2020 - 3Year - Internship",
+    "Amazon - 2020 - 3Year - Internship",
+    "Samsung - 2020 - 3Year - Internship",
+    "Google - 2020 - 3Year - Internship"
+  ]
+}
